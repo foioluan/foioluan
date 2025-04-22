@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Luan Veríssimo 👋.
 
 • Estudante de Ánalise e Desenvolvimento de Sistemas na <a href="https://www.ufrn.br/" target="_blank">UFRN</a>
+• Estagiário na <a href="https://site.esig.com.br/" target="_blank">ESIG</a>
 
 ### Principais Linguagens:
 <div style="display: inline_block">
